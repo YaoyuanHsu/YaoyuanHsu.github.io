@@ -1,1 +1,7 @@
+markdown: kramdown
+title: LeetCode Exercise
+logo: /assets/img/Profile.jpeg
+description: This is my Website
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-minimal

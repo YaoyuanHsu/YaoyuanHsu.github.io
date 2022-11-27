@@ -1,4 +1,4 @@
-# What is this repo?
+# What is this repository?
 - This is my [self website](https://yaoyuanhsu.github.io/Yuanster/) builded by GitHub page. I use Minimal theme as basic to build initial settings
 - This is the original [README.md](./Minimal_theme_README.md)
-- If you want to find the Minimal Theme repo, you can find it [here](https://github.com/pages-themes/minimal) and give them a star.
+- If you want to find the Minimal Theme repository, you can find it [here](https://github.com/pages-themes/minimal) and give them a star.

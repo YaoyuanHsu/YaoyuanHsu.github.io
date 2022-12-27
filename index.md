@@ -2,6 +2,8 @@
 layout: default
 ---
 
+My CV : [CV](./docs/CV.pdf)
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).

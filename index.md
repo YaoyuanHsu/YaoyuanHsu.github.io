@@ -21,8 +21,6 @@ layout: default
     }
 </style>
 
-My CV : [Preview](./docs/CV.pdf), <a href="https://github.com/YaoyuanHsu/Yuanster/raw/gh-pages/docs/CV.pdf" target="_self">Download</a>
-
 <div class="image-container">
     <img class="image_left" src="index_profile.jpg" alt="drawing" width="200"/>
     <h5>Personal lilnks:</h5>
@@ -42,3 +40,5 @@ Hi, I am **Yuanster**
 <p> Desire to learn more knowledge and strengthen abilities.</p>
 <p> I like programming, so I learn it!!</p>
 <p> Wish you have a nice day :)</p>
+
+My CV : [Preview](./docs/CV.pdf), <a href="https://github.com/YaoyuanHsu/Yuanster/raw/gh-pages/docs/CV.pdf" target="_self">Download</a>

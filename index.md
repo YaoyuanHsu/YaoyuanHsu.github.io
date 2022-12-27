@@ -2,7 +2,20 @@
 layout: default
 ---
 <style>
-    @import "/assets/css/image_around.css";
+    .image-container{
+       max-width: 100%;
+       margin: 5px;
+     }
+
+     .image_right{
+       float: right;
+     }
+
+     .image_left{
+       float: left;
+       margin-right: 25px;
+     }
+    
     li{
         font-size: 13px;
     }

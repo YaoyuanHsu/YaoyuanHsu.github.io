@@ -3,8 +3,8 @@ layout: default
 ---
 <style>
     .image-container{
-      max-width: 60%;
-      margin: 0 20%;
+      max-width: 100%;
+      margin: 5px;
     }
 
     .image_right{
@@ -13,24 +13,21 @@ layout: default
 
     .image_left{
       float: left;
-      margin-right: 20px;
+      margin-right: 25px;
     }
 </style>
-    
+
 My CV : [Preview](./docs/CV.pdf), <a href="https://github.com/YaoyuanHsu/Yuanster/raw/gh-pages/docs/CV.pdf" target="_self">Download</a>
 
 <div class="image-container">
-  <img class="image_left" src="index_profile.jpg" alt="drawing" width="200"/>
-</div> 
-
-University:  
-  - National Sun Yat-sen University  
-  - National Taipei University_Electrical Engineering  
-
-Personal lilnks:
-  - [GitHub](https://github.com/YaoyuanHsu)  
-  - [LinkedIn](https://www.linkedin.com/in/yaoyuan-hsu/)  
-  - [Facebook](https://www.facebook.com/profile.php?id=100000597043596)  
+    <img class="image_left" src="https://github.com/YaoyuanHsu/Yuanster/blob/gh-pages/index_profile.jpg" alt="" width="200"/>
+    <h5>Personal lilnks:</h5><ul>
+        <li><a href="https://github.com/YaoyuanHsu" target="_self">GitHub</a></li>
+        <li><a href="https://www.linkedin.com/in/yaoyuan-hsu/" target="_self">LinkedIn</a></li>
+    <li><a href="https://www.facebook.com/profile.php?id=100000597043596" target="_self">Facebook</a></li>
+    <h5>University:</h5>
+        <li>National Sun Yat-sen University</li><li>National Taipei University_Electrical Engineering</li></ul>
+</div>  
 
 Hi, I am Yuanster  
 > I am attracted by the beauty of programming and having curiosity in many different fields.  

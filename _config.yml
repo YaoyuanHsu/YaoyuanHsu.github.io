@@ -1,7 +1,7 @@
 markdown: kramdown
 title: Yuanster
 logo: /assets/img/Profile.jpeg
-description: This is my self wensite.<br>Yuanster @ here
+description: This is my self website.<br>Yuanster @ here
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal

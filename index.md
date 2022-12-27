@@ -2,7 +2,7 @@
 layout: default
 ---
 
-My CV : <a href="https://github.com/YaoyuanHsu/Yuanster/raw/gh-pages/docs/CV.pdf" target="_self">Download My CV</a>
+My CV : [Preview](./docs/CV.pdf), <a href="https://github.com/YaoyuanHsu/Yuanster/raw/gh-pages/docs/CV.pdf" target="_self">Download</a>
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 

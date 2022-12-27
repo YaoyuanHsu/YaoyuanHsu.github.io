@@ -4,7 +4,7 @@ layout: default
 
 My CV : [Preview](./docs/CV.pdf), <a href="https://github.com/YaoyuanHsu/Yuanster/raw/gh-pages/docs/CV.pdf" target="_self">Download</a>
 
-<img src="index_profile.jpg" alt="drawing" width="600"/>  
+<img src="index_profile.jpg" alt="drawing" width="200"/>
 
 Hi, I am Yuanster  
 > I am attracted by the beauty of programming and having curiosity in many different fields.  

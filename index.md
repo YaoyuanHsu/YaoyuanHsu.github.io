@@ -38,7 +38,7 @@ My CV : [Preview](./docs/CV.pdf), <a href="https://github.com/YaoyuanHsu/Yuanste
 </div>  
 
 Hi, I am Yuanster  
-> I am attracted by the beauty of programming and having curiosity in many different fields.  
-> Desire to learn more knowledge and strengthen abilities.  
-> I like programming, so I learn it!!  
-> Wish you have a nice day :) 
+    I am attracted by the beauty of programming and having curiosity in many different fields.  
+    Desire to learn more knowledge and strengthen abilities.  
+    I like programming, so I learn it!!  
+    Wish you have a nice day :) 

@@ -2,7 +2,7 @@
 layout: default
 ---
 <style>
-    @import "image_around.css";
+    @import "/assets/css/image_around.css";
     li{
         font-size: 13px;
     }

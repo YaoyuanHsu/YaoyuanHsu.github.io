@@ -2,7 +2,7 @@
 layout: default
 ---
 
-My CV : [CV](./docs/CV.pdf)
+My CV : <a href="https://yaoyuanhsu.github.io/Yuanster/docs/CV.pdf" target="CV" />
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 

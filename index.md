@@ -4,13 +4,13 @@ layout: default
 
 My CV : [Preview](./docs/CV.pdf), <a href="https://github.com/YaoyuanHsu/Yuanster/raw/gh-pages/docs/CV.pdf" target="_self">Download</a>
 
-![My_Profile](index_profile.jpg)  
+![My_Profile|600](index_profile.jpg)  
 
 Hi, I am Yuanster  
-  I am attracted by the beauty of programming and having curiosity in many different fields.  
-  Desire to learn more knowledge and strengthen abilities.  
-  I like programming, so I learn it!!  
-  Wish you have a nice day :)  
+> I am attracted by the beauty of programming and having curiosity in many different fields.  
+> Desire to learn more knowledge and strengthen abilities.  
+> I like programming, so I learn it!!  
+> Wish you have a nice day :)  
 
 University:  
   - National Sun Yat-sen University  

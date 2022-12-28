@@ -40,5 +40,5 @@ Hi, I am **Yuanster**
 <p> Desire to learn more knowledge and strengthen abilities.</p>
 <p> I like programming, so I learn it!!</p>
 <p> Wish you have a nice day :)</p>
-
+---
 My CV : [Preview](./docs/CV.pdf), <a href="https://github.com/YaoyuanHsu/Yuanster/raw/gh-pages/docs/CV.pdf" target="_self">Download</a>
